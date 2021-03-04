@@ -1,0 +1,4 @@
+Links = //h2[@class="empresasSect"]/a/@href
+Titulo = //h1[@class="economiaSect"]/i/text()
+Resumen = //div[@class="lead"]/p/text()
+Contenido = //div[@class="html-content"]/p[not(@class)]/text()
